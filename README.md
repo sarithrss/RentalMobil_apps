@@ -55,7 +55,22 @@ Melihat seluruh data mobil
                 2. Melihat mobil yang sudah dinonaktifkan (soft deleted)
                 3. Mengaktifkan kembali mobil dari status Nonaktif → Tersedia
 
-1. CREDITTS
+
+1. Limitasi Aplikasi
+- Data belum tersimpan permanen (masih menggunakan list dan dictionary)
+- Aplikasi masih berbasis CLI (terminal)
+- Belum mendukung pengaturan sewa berdasarkan tanggal
+
+1. Pengembangan selanjutnya
+- Menambahkan database untuk penyimpanan data
+- Menambahkan sistem sewa berdasarkan tanggal
+- Mengembangkan aplikasi menjadi berbasis web
+
+1. Requirements
+- Python 3.14
+- Vscode
+  
+1. Credits
 Project ini dibuat sebagai bagian dari pembelajaran Python untuk memahami:
 - CRUD system
 - Data structure (list & dictionary)
